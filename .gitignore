@@ -18,3 +18,8 @@ venv/
 # Editor
 .vscode/
 .idea/
+# .gitignore
+__pycache__/
+.env
+data/
+node_whatsapp/
